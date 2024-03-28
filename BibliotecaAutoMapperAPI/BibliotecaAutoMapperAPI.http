@@ -1,0 +1,6 @@
+@BibliotecaAutoMapperAPI_HostAddress = http://localhost:5089
+
+GET {{BibliotecaAutoMapperAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
